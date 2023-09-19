@@ -1,11 +1,11 @@
-# 3D_print_3.25_speaker_enclosure
+### 3D_print_3.25_speaker_enclosure
 File STL thiết kế thùng loa 3.25" dùng để in 3D
 
-# Link youtube
+### Link youtube
 - https://youtu.be/k8h7kqgMxKA
 - https://youtu.be/5omHe2NPuSA
 
-# Mình in với chế độ:
+### Mình in với chế độ:
 - độ dày thành: 1.2mm
 - top/bot: 1.2mm
 - độ dày lớp: 0.3mm
